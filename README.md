@@ -46,7 +46,6 @@ It was implemented in Python using Pandas, Matplotlib, Seaborn, and delivered wi
 
 - **Python 3.x**: Data loading, transformation, analysis
 - **Libraries**: `pandas`, `matplotlib`, `seaborn`
-- *(Optional)* Tableau for external dashboard (if used)
 
 ---
 
@@ -56,6 +55,18 @@ To run the notebook locally:
 
 ```bash
 pip install pandas matplotlib seaborn
+
+## 🛠️ Prerequisites
+
+To run the notebook locally:
+
+```bash
+pip install pandas matplotlib seaborn
+
+
+
+
+
 
 ---
 
