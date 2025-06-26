@@ -3,8 +3,8 @@
 This project was completed during my **Data Analyst Internship at InnoByte Services (June 2025)**.  
 Through this end-to-end sales analysis, I strengthened my skills in:
 
-- **Data Preprocessing**: Cleaning and preparing structured Amazon sales data using Python
-- **Data Analysis**: Extracting key metrics (sales, returns, quantity) and identifying trends
+- **Data Preprocessing**: Cleaning and preparing structured Amazon sales data using Python  
+- **Data Analysis**: Extracting key metrics (sales, returns, quantity) and identifying trends  
 - **Data Visualization**: Creating business-focused charts, graphs, and summaries using Python (Matplotlib, Seaborn)
 
 ---
@@ -19,11 +19,11 @@ Through this end-to-end sales analysis, I strengthened my skills in:
 ## 📋 Project Overview
 
 This project analyzes Amazon sales data to uncover:
-- 🛍️ Revenue patterns
-- 📦 Product category performance
-- 🌍 Regional customer trends
-- 🚚 Fulfillment success & return insights
-- 💡 Data-driven recommendations for decision-making
+- 🛍️ Revenue patterns  
+- 📦 Product category performance  
+- 🌍 Regional customer trends  
+- 🚚 Fulfillment success & return insights  
+- 💡 Data-driven recommendations for decision-making  
 
 It was implemented in Python using Pandas, Matplotlib, Seaborn, and delivered with full visual output and markdown conclusions.
 
@@ -44,109 +44,82 @@ It was implemented in Python using Pandas, Matplotlib, Seaborn, and delivered wi
 
 ## 📚 Tools Used
 
-- **Python 3.x**: Data loading, transformation, analysis
+- **Python 3.x**
 - **Libraries**: `pandas`, `matplotlib`, `seaborn`
 
 ---
 
 ## 🚀 Features
 
-## 🛒 Sales Insights
+### 🛒 Sales Insights
+- Total Revenue, Order Count, Avg. Order Value (AOV)  
+- Weekday-wise and date-wise order trends  
+- Top-performing sales days  
 
-Total Revenue, Order Count, Avg. Order Value (AOV)
+### 📦 Product Performance
+- Top categories by sales and quantity  
+- Revenue share of top 5 vs. others (donut chart)  
+- Quantity patterns across product types  
 
-Weekday-wise and date-wise order trends
+### 🚚 Fulfillment Performance
+- Delivered vs. Returned order analysis  
+- Return % and Success % by fulfillment type  
+- Return-prone states identified  
 
-Top-performing sales days
+### 🌍 Customer Segmentation
+- Order distribution across Indian states  
+- Quantity and revenue patterns by state  
+- Pie chart for top states vs. others  
 
-## 📦 Product Performance
-
-Top categories by sales and quantity
-
-Revenue share of top 5 vs. others (donut chart)
-
-Quantity patterns across product types
-
-## 🚚 Fulfillment Performance
-
-Delivered vs. Returned order analysis
-
-Return % and Success % by fulfillment type
-
-Return-prone states identified
-
-## 🌍 Customer Segmentation
-
-Order distribution across Indian states
-
-Quantity and revenue patterns by state
-
-Pie chart for top states vs. others
-
-## 📈 Geographic Insights
-
-State-wise revenue mapping (pie-style)
-
-Top 10 cities for orders and sales
-
-State-level contribution to total sales
+### 📈 Geographic Insights
+- State-wise revenue mapping (pie-style)  
+- Top 10 cities for orders and sales  
+- State-level contribution to total sales  
 
 ---
 
 ## 🧠 Key Insights
 
-💸 Maharashtra and Karnataka drive most of the sales volume
+- 💸 Maharashtra and Karnataka drive most of the sales volume  
+- 🔁 Returns are highest in Bihar and a few northeastern states  
+- 📦 T-shirts, Shirts, and Dresses dominate product revenue  
+- ✅ Fulfilled-by-Amazon orders perform better (higher success %, lower return %)  
+- 📊 Consistent buying behavior in top states helps with forecasting  
 
-🔁 Returns are highest in Bihar and a few northeastern states
-
-📦 T-shirts, Shirts, and Dresses dominate product revenue
-
-✅ Fulfilled-by-Amazon orders perform better (higher success %, lower return %)
-
-📊 Consistent buying behavior in top states helps with forecasting
+---
 
 ## 📝 Methodology
 
-1️⃣ Data Cleaning (Python)
+### 1️⃣ Data Cleaning (Python)
+- Removed duplicates & missing values  
+- Cleaned and standardized key columns like State, Category, Status  
+- Converted Date columns into datetime objects  
 
-Removed duplicates & missing values
+### 2️⃣ Exploratory Data Analysis (EDA)
+- Used groupby, aggregation, sorting, filtering to derive insights  
+- Built pie charts, bar plots, line graphs, and correlation checks  
 
-Cleaned and standardized key columns like State, Category, Status
-
-Converted Date columns into datetime objects
-
-2️⃣ Exploratory Data Analysis (EDA)
-
-Used groupby, aggregation, sorting, filtering to derive insights
-
-Built pie charts, bar plots, line graphs, and correlation checks
-
-3️⃣ Dashboard Structure
-
-Step-by-step task breakdown
-
-Each task ends with visual charts and a written conclusion
+### 3️⃣ Dashboard Structure
+- Step-by-step task breakdown  
+- Each task ends with visual charts and a written conclusion  
 
 ---
 
 ## 📄 Files Included
 
-Amazon_Sales_Analysis_Full.ipynb → Full version with deep explanations, charts, and markdowns
+- `Amazon_Sales_Analysis_Full.ipynb` → Full version with deep explanations, charts, and markdowns  
+- `Amazon_Sales_Analysis_Summary.ipynb` → Compressed summary for quick review  
+- `amazon_sales_data.csv` → (If uploaded or available)  
+- `README.md` → This file  
 
-Amazon_Sales_Analysis_Summary.ipynb → Compressed summary for quick review
-
-amazon_sales_data.csv → (If uploaded or available)
-
-README.md → This file
-
-📌 If GitHub does not render the full notebook due to size, download it locally or view the summary file.
+> 📌 If GitHub does not render the full notebook due to size, download it locally or view the summary file.
 
 ---
 
 ## 👩‍💻 Author
 
-Nitisha Sharma
-Data Analyst Intern – InnoByte Services (June 2025)
-📧 GitHub: Nitisha-Sharma11
+- **Nitisha Sharma**  
+- Data Analyst Intern – InnoByte Services (June 2025)  
+- 📧 GitHub: [Nitisha-Sharma11](https://github.com/Nitisha-Sharma11)
 
 ---
