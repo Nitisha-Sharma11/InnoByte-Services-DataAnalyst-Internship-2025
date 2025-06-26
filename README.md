@@ -49,22 +49,26 @@ It was implemented in Python using Pandas, Matplotlib, Seaborn, and delivered wi
 
 ---
 
-🚀 Features
-🛒 Sales Insights
+## 🚀 Features
+
+## 🛒 Sales Insights
+
 Total Revenue, Order Count, Avg. Order Value (AOV)
 
 Weekday-wise and date-wise order trends
 
 Top-performing sales days
 
-📦 Product Performance
+## 📦 Product Performance
+
 Top categories by sales and quantity
 
 Revenue share of top 5 vs. others (donut chart)
 
 Quantity patterns across product types
 
-🚚 Fulfillment Performance
+## 🚚 Fulfillment Performance
+
 Delivered vs. Returned order analysis
 
 Return % and Success % by fulfillment type
