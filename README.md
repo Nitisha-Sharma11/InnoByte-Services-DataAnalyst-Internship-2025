@@ -49,6 +49,16 @@ It was implemented in Python using Pandas, Matplotlib, Seaborn, and delivered wi
 
 ---
 
+## 🛠️ Prerequisites
+
+To run this project, you need the following:
+
+- Python 3.x  
+- Libraries: pandas, matplotlib, seaborn  
+- Jupyter Notebook or any compatible Python IDE  
+
+---
+
 ## 🚀 Features
 
 ### 🛒 Sales Insights
@@ -121,5 +131,12 @@ It was implemented in Python using Pandas, Matplotlib, Seaborn, and delivered wi
 - **Nitisha Sharma**  
 - Data Analyst Intern – InnoByte Services (June 2025)  
 - 📧 GitHub: [Nitisha-Sharma11](https://github.com/Nitisha-Sharma11)
+
+---
+
+## 🙏 Acknowledgment
+
+Special thanks to InnoByte Services for the opportunity and guidance during my internship.  
+Thank you to all visitors for taking the time to view my project!
 
 ---
