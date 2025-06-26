@@ -49,27 +49,6 @@ It was implemented in Python using Pandas, Matplotlib, Seaborn, and delivered wi
 
 ---
 
-## 🛠️ Prerequisites
-
-To run the notebook locally:
-
-```bash
-pip install pandas matplotlib seaborn
-
-## 🛠️ Prerequisites
-
-To run the notebook locally:
-
-```bash
-pip install pandas matplotlib seaborn
-
-
-
-
-
-
----
-
 🚀 Features
 🛒 Sales Insights
 Total Revenue, Order Count, Avg. Order Value (AOV)
