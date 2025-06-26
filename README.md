@@ -109,9 +109,7 @@ To run this project, you need the following:
 - Used groupby, aggregation, sorting, filtering to derive insights  
 - Built pie charts, bar plots, line graphs, and correlation checks  
 
-### 3️⃣ Dashboard Structure
-- Step-by-step task breakdown  
-- Each task ends with visual charts and a written conclusion  
+Each task was explored in Python with step-by-step charts and conclusions.
 
 ---
 
