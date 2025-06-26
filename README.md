@@ -75,14 +75,15 @@ Return % and Success % by fulfillment type
 
 Return-prone states identified
 
-🌍 Customer Segmentation
+## 🌍 Customer Segmentation
+
 Order distribution across Indian states
 
 Quantity and revenue patterns by state
 
 Pie chart for top states vs. others
 
-📈 Geographic Insights
+## 📈 Geographic Insights
 State-wise revenue mapping (pie-style)
 
 Top 10 cities for orders and sales
