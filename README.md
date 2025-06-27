@@ -128,7 +128,9 @@ Each task was explored in Python with step-by-step charts and conclusions.
 
 - **Nitisha Sharma**  
 - Data Analyst Intern – InnoByte Services (June 2025)  
-- 📧 GitHub: [Nitisha-Sharma11](https://github.com/Nitisha-Sharma11)
+- 📧 Email: [nitishasharma123@gmail.com](mailto:nitishasharma123@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/nitisha-sharma11](https://www.linkedin.com/in/nitisha-sharma11)  
+- 💻 GitHub: [Nitisha-Sharma11](https://github.com/Nitisha-Sharma11)
 
 ---
 
@@ -145,3 +147,5 @@ Thank you to all visitors for taking the time to view my project!
 - 📘 [Full Jupyter Notebook (Detailed)](Innobyte_Services_Internship_Full.ipynb)
 - 📄 [Summary Notebook](Innobyte_Services_Summary.ipynb)
 - 📄 [Download Data Analyst Tasks (PDF)](Data_Analyst_Tasks.pdf)
+
+---
