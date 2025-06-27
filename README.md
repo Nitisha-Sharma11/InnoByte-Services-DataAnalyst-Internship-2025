@@ -139,8 +139,9 @@ Thank you to all visitors for taking the time to view my project!
 
 ---
 
-## 📘 Full Notebook Analysis
+## 📎 Supporting Files
 
-Click below to view the complete, beautifully rendered version of the analysis:
-
-🔗 [View Full Amazon Sales Analysis (HTML)](https://github.com/Nitisha-Sharma11/InnoByte-Services-DataAnalyst-Internship-2025/blob/main/Innobyte_Services_Internship_All_Tasks_(Full_Detailed_Analysis).html)
+- 📊 [Amazon Sales Dataset (CSV)](Amazon_Sale_Report.csv)
+- 📘 [Full Jupyter Notebook (Detailed)](Innobyte_Services_Internship_Full.ipynb)
+- 📄 [Summary Notebook](Innobyte_Services_Summary.ipynb)
+- 📄 [Download Data Analyst Tasks (PDF)](Data_Analyst_Tasks.pdf)
