@@ -147,5 +147,6 @@ Thank you to all visitors for taking the time to view my project!
 - 📘 [Full Jupyter Notebook (Detailed)](Innobyte_Services_Internship_Full.ipynb)
 - 📄 [Summary Notebook](Innobyte_Services_Summary.ipynb)
 - 📄 [Download Data Analyst Tasks (PDF)](Data_Analyst_Tasks.pdf)
+- 📝 [Internship Final Report (PDF)](Amazon_Internship_Report.pdf)
 
 ---
