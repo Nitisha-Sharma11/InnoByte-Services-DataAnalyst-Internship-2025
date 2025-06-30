@@ -140,13 +140,3 @@ Special thanks to InnoByte Services for the opportunity and guidance during my i
 Thank you to all visitors for taking the time to view my project!
 
 ---
-
-## 📎 Supporting Files
-
-- 📊 [Amazon Sales Dataset (CSV)](Amazon_Sale_Report.csv)
-- 📘 [Full Jupyter Notebook (Detailed)](Innobyte_Services_Internship_Full.ipynb)
-- 📄 [Summary Notebook](Innobyte_Services_Summary.ipynb)
-- 📄 [Download Data Analyst Tasks (PDF)](Data_Analyst_Tasks.pdf)
-- 📝 [Internship Final Report (PDF)](Amazon_Internship_Report.pdf)
-
----
